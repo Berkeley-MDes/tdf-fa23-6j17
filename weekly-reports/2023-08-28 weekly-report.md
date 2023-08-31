@@ -15,7 +15,7 @@ Some information about my process:
 Here is a link to some video documentation I made of my cell phone stand getting cut at Jacobs
 
 
-<a href="[https://vimeo.com/859948016?share=copy)"></img></a>
+<a href="[https://vimeo.com/859948016?share=copy)"><img width="100%" src="https://img.vimeo.com/859948016?share=copy"></img></a>
 
 ---
 
