@@ -1,11 +1,14 @@
 ---
-# Example Report 1 - Week of 08/21/2023 #
-** This is bold text **
+# Example Report 1 - Week of 08/21/2023 (Week 2)
+** Zoe Liu, Techology Design Foundations
 
-Here's an example of creating a weekly progress report, in its own file. 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
-[Here](https://www.cnn.com/2022/12/20/world/artificial-intelligence-nutrition-hnk-spc-intl/index.html)is link for monday class
-![plants](ocs-vertical-farming-blog-081418.jpg)
+### Summary:
+
+This week,  I learn a lots of things in the process of making an phone stand
+
+Some process of laser cutting:
+
+<img width="100%" src="sketch01.jpg"></img><br>
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
 
