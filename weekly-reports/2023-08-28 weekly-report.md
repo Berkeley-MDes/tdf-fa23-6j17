@@ -7,9 +7,9 @@
 This week,  I learn a lots of things in the process of making an phone stand
 Some information about my process:
 
-<img width="100%" src="project0-1.jpg"></img><br>
-<img width="100%" src="project0-2.jpg"></img><br>
-<img width="100%" src="project0-3.jpg"></img><br>
+<img width="100%" src="project0-1.JPG"></img><br>
+<img width="100%" src="project0-2.JPG"></img><br>
+<img width="100%" src="project0-3.JPG"></img><br>
 
 
 Here is a link to some video documentation I made of my cell phone stand getting cut at Jacobs
