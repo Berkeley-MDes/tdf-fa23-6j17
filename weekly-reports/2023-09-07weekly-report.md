@@ -8,9 +8,9 @@
 This week,  I try rhino with tutorial online
 Some information about my process:
 
-<img width="100%" src="Rhino01.JPG"></img><br>
-<img width="100%" src="Rhino02.JPG"></img><br>
-<img width="100%" src="Rhino03.JPG"></img><br>
+<img width="100%" src="Rhino01.png"></img><br>
+<img width="100%" src="Rhino02.png"></img><br>
+<img width="100%" src="Rhino03.png"></img><br>
 
 
 
@@ -27,6 +27,5 @@ And I start creating complex curves and surfaces. Started experimenting with tex
 
 
 
-![all tools](project0-4.JPG)
 
 ---
