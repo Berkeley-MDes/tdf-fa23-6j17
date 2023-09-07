@@ -1,4 +1,4 @@
-# Example Report 1 - Week of 08/28/2023 (Week 2)
+#  Week of 08/28/2023 (Week 2)
 ## Zoe(Jiayi) Liu, Techology Design Foundations
 
 
