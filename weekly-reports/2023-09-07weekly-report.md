@@ -8,9 +8,9 @@
 This week,  I try rhino with tutorial online
 Some information about my process:
 
-<img width="100%" src="project0-1.JPG"></img><br>
-<img width="100%" src="project0-2.JPG"></img><br>
-<img width="100%" src="project0-3.JPG"></img><br>
+<img width="100%" src="Rhino01.JPG"></img><br>
+<img width="100%" src="Rhino02.JPG"></img><br>
+<img width="100%" src="Rhino03.JPG"></img><br>
 
 
 
