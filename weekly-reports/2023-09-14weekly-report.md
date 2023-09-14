@@ -3,10 +3,7 @@
 
 
 ### Summary: 
-
-
-This week, I decided on my personalized artifact which is a support thing for my toy, which is a chair.
-I followed step by step with a YouTube video to make this chair and made some changes
+I followed step by step with a  [YouTube video]([https://www.youtube.com/watch?v=tgPzekCRM9U](https://www.youtube.com/watch?v=tgPzekCRM9U)) to make this chair and made some changes myself.
 
 <img width="100%" src="Rhino01.png"></img><br>
 <img width="100%" src="Rhino02.png"></img><br>
