@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=tgPzekCRM9U
 <img width="100%" src="Chair02.png"></img><br>
 <img width="100%" src="Chair03.png"></img><br>
 
-First-time use 3dprinteros to slides.
+First-time use 3dprinteros to slice.
 
 <img width="100%" src="Chair04.png"></img><br>
 <img width="100%" src="Chair05.png"></img><br>
