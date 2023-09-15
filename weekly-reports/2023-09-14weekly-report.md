@@ -16,6 +16,7 @@ First-time use 3dprinteros to slice.
 <img width="100%" src="Chair04.png"></img><br>
 <img width="100%" src="Chair05.png"></img><br>
 
+I also worked on the  [YouTube video](https://www.youtube.com/watch?v=fA1N4DpFmu8) This week.
 
 
 Given the contrasting functionalities and interfaces, navigating Rhino and Grasshopper is challenging.
