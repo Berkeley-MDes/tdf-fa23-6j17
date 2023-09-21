@@ -3,12 +3,11 @@
 
 
 ### Summary: 
-This week, I decided to make a support for my little toy, which is my personalized artifact. 
- I followed step by step with a [YouTube video](https://www.youtube.com/watch?v=tgPzekCRM9U)  to make this chair and made some changes myself.
+This week, I go through the first five steps of the Photon2 setup. 
 
-https://www.youtube.com/watch?v=tgPzekCRM9U
+
 <img width="100%" src="Chair01.png"></img><br>
-<img width="100%" src="Chair02.png"></img><br>
+<img width="100%" src="Chair02.png"></img><br
 <img width="100%" src="Chair03.png"></img><br>
 
 First-time use 3dprinteros to slice.
