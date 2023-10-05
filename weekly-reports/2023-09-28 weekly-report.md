@@ -3,18 +3,15 @@
 
 
 ### Summary: 
-This week, I go through how to use LED and sensor
+This week, i joined our group meeting.
 
-<img width="100%" src="led.JPG"></img><br>
-<img width="100%" src="led2.JPG"></img><br
-
-
+<img width="100%" src="TDF-project2.jpg"></img><br>
 
 ---
 
 ### Reflections:
 
-I need to be more careful in distinguishing between positive and negative
+Our group had a very effective communication, and then we had a plan for the next step
 
 
 
