@@ -1,9 +1,9 @@
-#  Week of 09/28/2023 (Week 2)
+#  Week of 10/05/2023 (Week 6)
 ## Zoe(Jiayi) Liu, Technology Design Foundations
 
 
 ### Summary: 
-This week, i joined our group meeting.
+This week, I joined our group meeting.
 
 <img width="100%" src="TDF-project2.jpg"></img><br>
 
