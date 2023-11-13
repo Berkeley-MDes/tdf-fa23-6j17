@@ -1,4 +1,4 @@
-#  Week of 10/05/2023 (Week 6)
+#  Week of 10/05/2023 (Week 7)
 ## Zoe(Jiayi) Liu, Technology Design Foundations
 
 
