@@ -2,7 +2,7 @@
 ## Zoe(Jiayi) Liu, Technology Design Foundations
 
 ### Summary: 
-This week, I worked with my groupmates on finding solution for 2 python can commucate with each other.
+This week, I worked with my groupmates on finding a solution for 2 pythons can communicate with each other.
 
 
 <img width="100%" src="p1.JPG"></img><br>
@@ -10,7 +10,7 @@ This week, I worked with my groupmates on finding solution for 2 python can comm
 <img width="100%" src="p5.JPG"></img><br>
 <img width="100%" src="p6.JPG"></img><br>
 
-I did lasercut and design for our module。 
+I did laser-cut and design for our module。 
 
 <img width="100%" src="p3.JPG"></img><br>
 <img width="100%" src="p4.JPG"></img><br>
